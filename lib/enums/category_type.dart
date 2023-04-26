@@ -1,0 +1,1 @@
+enum CategoryType {numbers, familyMembers, colors, phrases}
